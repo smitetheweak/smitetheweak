@@ -5,6 +5,8 @@
 <p align="center">
   <img width="640" height="256" alt="Untitled215_20260820090315" src="https://github.com/user-attachments/assets/1a40d882-3c04-423c-bcfc-0b1e1d941f43" />
 <p align="center">
+  Banner Made By Ren @reniscute On Github!
+<p align="center">
   Adult
 <p align="center">
   The Nether's Beloved Overlord
