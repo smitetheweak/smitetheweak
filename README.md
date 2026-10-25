@@ -1,4 +1,6 @@
 <p align="center">
+  <img width="220" height="226" alt="nether-portal" src="https://github.com/user-attachments/assets/ea3f70b3-0a46-4952-953c-a517a2884c98" />
+<p align="center">
   Eidolon
 <p align="center">
   He / She / It
