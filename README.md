@@ -11,5 +11,5 @@
 <p align="center">
 <img width="510" height="640" alt="c3ea92a937df8ddc361f9a4c8df891e6" src="https://github.com/user-attachments/assets/0e40d83e-5b80-43e4-a23b-d30b57f5255d" />
 <p align="center">
-Check Out Our [ATABOOK](https://thenethersprince.atabook.org) For The Truth!
+Check Out Our ATABOOK!
 
